@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": "5ea2b9a998eba1677821f94c",
+      "isActive": true,
+      "isAdmin": true,
+      "picture": "https://picsum.photos/200/300",
+      "age": 27,
+      "name": "Pogchamp69",
+      "email": "graves45@reversus.com",
+      "password": 12345
+    },
+    {
+      "id": "5ea2b9a9d9c1618573cd5c08",
+      "isActive": true,
+      "isAdmin": false,
+      "picture": "https://picsum.photos/200/300",
+      "age": "326",
+      "name": "Tylor1",
+      "email": "justarandom@veryhotmail.com",
+      "password": "123454"
+    },
+    {
+      "name": "Test User ",
+      "age": "20",
+      "email": "test@test12.test",
+      "password": "test",
+      "isAdmin": true,
+      "isActive": true,
+      "picture": "https://picsum.photos/200/300?random=1",
+      "id": "XdrtnjZ"
+    }
+  ],
+  "notes": [
+    {
+      "id": "dR5gfdvnt5",
+      "title": "Test title",
+      "content": "Test cointent",
+      "authorId": "XdrtnjZ",
+      "authorName": "gsfdgfsdg sf",
+      "date": "234324:432432:432",
+      "Status": "Active"
+    },
+    {
+      "title": "set",
+      "content": "set",
+      "author": "",
+      "authorName": "test create1",
+      "date": "2020-06-05T09:21:49.400Z",
+      "authorId": "XdrtnjZ",
+      "id": "VEbk_Ct",
+      "Status": "Active",
+      "status": "Done"
+    },
+    {
+      "title": "asd",
+      "content": "asdasdas",
+      "author": "",
+      "authorName": "test create1",
+      "date": "2020-06-05T14:49:16.603Z",
+      "status": "Active",
+      "authorId": "XdrtnjZ",
+      "id": "2uW315V"
+    },
+    {
+      "title": "asd",
+      "content": "asd",
+      "author": "",
+      "authorName": "Roxanne Santiago",
+      "date": "2020-06-06T16:23:35.063Z",
+      "status": "Active",
+      "authorId": "XdrtnjZ",
+      "id": "-3qGrMn"
+    }
+  ]
+}
