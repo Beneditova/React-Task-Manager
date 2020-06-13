@@ -1,0 +1,14 @@
+.user-edit-wrapper {
+    display: flex;
+    height: calc(120vh - 200px);
+    justify-content: center;
+    align-items: center;
+}
+
+.user-edit-form {
+    border: 1px solid rgb(73, 72, 72);
+    width: 400px;
+    padding: 30px;
+    border-radius: 30%;
+    background-color: rgb(73, 72, 72);
+}

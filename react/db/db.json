@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "name": "Milena Ivanova",
+      "age": "21",
+      "email": "milena@abv.bg",
+      "password": "milena",
+      "isAdmin": false,
+      "isActive": true,
+      "picture": "https://picsum.photos/200/300?random=1",
+      "id": "xgRxN9V"
+    },
+    {
+      "name": "Krisi",
+      "age": "21",
+      "email": "krisi@abv.bg",
+      "password": "krisi",
+      "isAdmin": true,
+      "isActive": true,
+      "picture": "https://picsum.photos/200/300?random=1",
+      "id": "-f23Iyf"
+    },
+    {
+      "name": "Todor Gergishanov",
+      "age": "28",
+      "email": "todor@abv.bg",
+      "password": "todor",
+      "isAdmin": false,
+      "isActive": true,
+      "picture": "https://picsum.photos/200/300?random=1",
+      "id": "ZClZDFH"
+    },
+    {
+      "name": "Petar Tomov",
+      "age": "35",
+      "email": "tomov@abv.bg",
+      "password": "tomov",
+      "isAdmin": false,
+      "isActive": true,
+      "picture": "https://picsum.photos/200/300?random=1",
+      "id": "QliUHtM"
+    },
+    {
+      "name": "rady",
+      "age": "12",
+      "email": "rady@gmail.com",
+      "password": "rady",
+      "isAdmin": false,
+      "isActive": true,
+      "picture": "https://picsum.photos/200/300?random=1",
+      "id": "FCwvEFs"
+    },
+    {
+      "name": "notadmin",
+      "age": "22",
+      "email": "notadmin@notadmin.com",
+      "password": "notadmin",
+      "isAdmin": false,
+      "isActive": true,
+      "picture": "https://picsum.photos/200/300?random=1",
+      "id": "zJ71Hx1"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Random",
+      "content": "Random",
+      "authorId": "xgRxN9V",
+      "authorName": "Milena Ivanova",
+      "date": "2020-06-13T09:50:01.534Z",
+      "status": "Active",
+      "id": 3
+    },
+    {
+      "title": "Project",
+      "content": "dfhs",
+      "authorId": "FCwvEFs",
+      "authorName": "rady",
+      "date": "2020-06-13T11:10:04.757Z",
+      "status": "Active",
+      "id": 4
+    }
+  ]
+}

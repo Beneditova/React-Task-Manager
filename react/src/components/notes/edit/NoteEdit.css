@@ -1,0 +1,34 @@
+.note-edit-wrapper {
+    display: flex;
+    height: calc(120vh - 500px);
+    justify-content: center;
+    align-items: center;
+}
+
+.note-edit-form {
+    border: 5px solid rgb(73, 72, 72);
+    width: 500px;
+    padding: 30px;
+    border-radius: 30%;
+    background-color: rgb(73, 72, 72);
+}
+
+.App {
+    font-family: sans-serif;
+    /* text-align: center; */
+    background-color: #f6f9fe;
+    height: 100vh;
+  }
+  .image-item {
+    display: flex;
+    margin: 10px 0;
+  }
+  .image-item__btn-wrapper {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+  }
+  button {
+    height: 40px;
+  }
+  
